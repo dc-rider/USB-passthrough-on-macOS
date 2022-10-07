@@ -1,1 +1,1 @@
-# USB-passthrough-on-macOS
+# USB-passthrough-on-macOS Nikon Scan software for Mac will only run on Power PC versions of OSX.  I’ve used qemu to get OSX 10.4 to run on my 64 bit Mac (Monterey 12.6) but USB passthrough to my Nikon scanner isn’t working.  This thread looks helpful (https://github.com/libusb/libusb/pull/911) but I don’t have the technical knowledge to know what code to run to implement the suggestions.  Advice appreciated!
